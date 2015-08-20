@@ -3,7 +3,8 @@ int main()
 {
 cout<<"...Hello World...!!";
 int a;
-cout<<"Enter Number";
+cout<<"Enter Number : ";
 cin>>a;
+cout<<"Entred Number is : "<<a;
 return 0;
 }
